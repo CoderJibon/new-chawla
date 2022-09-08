@@ -20,6 +20,7 @@
         overflow: hidden;
         height: 470px;
     } 
+    
     .slider .item,
     .slider-fade .item {
         position: absolute;
