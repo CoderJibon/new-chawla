@@ -1003,10 +1003,10 @@ blockquote cite:before {
 
 
 /* ======= Page Banner Header style ======= */
-.banner-header {
+/* .banner-header {
     height: 20vh;
     z-index: -2;
-}
+} */
 .banner-header h6 {
     font-size: 20px;
     font-weight: 400;
@@ -1047,10 +1047,10 @@ blockquote cite:before {
     color: #b19777;
 }
 @media screen and (max-width: 767px) {
-    .banner-header {
+    /* .banner-header {
         height: 30vh;
         margin-top: 70px;
-    }
+    } */
     .banner-header h6 {
         font-size: 12px;
         font-weight: 400;
