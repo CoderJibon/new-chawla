@@ -16,10 +16,10 @@
         overflow: hidden;
     }  
     header.header.slider-fade  .text-right.item.bg-img {
-        background-size: 100%;
+        background-size: 100% 100%;
         background-repeat: no-repeat;
     } 
-    .about.section-padding2, .about.section-padding, {
+    /* .about.section-padding2, .about.section-padding, {
         margin-top: -200px;
     }
     #why_us {
@@ -33,7 +33,7 @@
     }
     .bauen-project.section-padding2.asdf {
         margin-top: -200px;
-    }
+    } */
     .bauen-project.section-padding2 {
         padding-left: 20px;
         padding-right: 20px;

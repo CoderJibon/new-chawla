@@ -250,12 +250,13 @@ $(function() {
 
     // Team owlCarousel
     $('.team .owl-carousel').owlCarousel({
-        loop: true
+         loop: false
         , margin: 30
         , dots: true
         , mouseDrag: true
         , autoplay: false
         , responsiveClass: true
+        , items:4
         , responsive: {
             0: {
                 items: 1,
@@ -351,8 +352,9 @@ $(document).ready(function() {
     // Slider owlCarousel
     $('.slider .owl-carousel').owlCarousel({
         items: 1,
-        loop:true,
+        loop:false,
         dots: false,
+        mouseDrag: false,
         margin: 0,
         autoplay: true,
         smartSpeed: 500,
@@ -362,8 +364,9 @@ $(document).ready(function() {
     // Slider owlCarousel
     $('.slider-fade .owl-carousel').owlCarousel({
         items: 1,
-        loop:true,
+        loop:false,
         dots: false,
+        mouseDrag: false,
         margin: 0,
         autoplay: true,
         smartSpeed: 500,

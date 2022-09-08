@@ -2119,9 +2119,11 @@ blockquote cite:before {
     position: relative;
     overflow: hidden;
     margin-bottom: 30px;
+    overflow: hidden;
 }
 .projects .item:hover img {
     -webkit-filter: none;
+    overflow: hidden;
     filter: none;
     -webkit-transform: scale(1.09, 1.09);
     transform: scale(1.09, 1.09);
