@@ -18,7 +18,7 @@
     .header {
         min-height: auto;
         overflow: hidden;
-        height: 470px;
+        height: 300px;
     } 
     .slider .item,
     .slider-fade .item {
